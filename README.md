@@ -1,5 +1,7 @@
 # Joanna Personal Assistant
 
+[![CI](https://github.com/WTCNBNB/joanna-personal-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/WTCNBNB/joanna-personal-assistant/actions/workflows/ci.yml)
+
 Joanna is a local-first personal evidence and reasoning kernel. It stores personal experience events in SQLite, derives explainable context hypotheses, records user feedback as evidence, and keeps LLM calls behind explicit credentials and audit records.
 
 This repository is the public engineering version. It does not include private runtime data, real audio, GPS tracks, Apple Health exports, API keys, local deployment logs, or personal infrastructure configuration.
